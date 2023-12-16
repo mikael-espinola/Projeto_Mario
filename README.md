@@ -9,12 +9,6 @@ Landpage é uma aplicação front end web e mobile construída durante a **Seman
 
 A aplicação consiste em reunir informações sobre o lançamento do novo filme do Mario Bros nos cinemas. Ofertando uma navegação imersiva sobre o filme.
 
-## Layout mobile
-![Mobile 1](https://github.com/mikael-espinola/arquivosreadme/blob/main/img-supermario/img-mobile.png) 
-
-## Layout web
-![Web 1](https://github.com/mikael-espinola/arquivosreadme/blob/main/img-supermario/img-web.png)
-
 ## Tecnologias utilizadas
 ### Front end
 - HTML 
